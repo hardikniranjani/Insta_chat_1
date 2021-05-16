@@ -156,7 +156,7 @@ function App() {
               <Button onClick={() => setOpen(true)}>Sign up</Button>
             </div>
 
-          )}</div>
+          )}</div> 
       </div>
       <div>
         {user?.displayName ? (
